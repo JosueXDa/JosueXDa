@@ -1,28 +1,72 @@
-## 👋 Hola, soy JosueXDa
+# 👋 Hola, soy JosueXDa
 
-Soy desarrollador backend con enfoque en Node.js y TypeScript. Me gusta construir APIs limpias, escalables y fáciles de mantener.
-
-### 🚀 Tecnologías que manejo
-- JavaScript (JS)
-- TypeScript
-- Node.js
-- Express
-- Hono
-- NestJS
-- PostgreSQL
-
-### 🧰 En qué me enfoco
-- Diseño y desarrollo de APIs REST
-- Arquitecturas escalables
-- Buenas prácticas y testing
-- Integración con bases de datos relacionales
-
-### 📌 Proyectos destacados
-> Próximamente...
-
-### 📫 Cómo contactarme
-- GitHub: @JosueXDa
-- Email: tu-correo@ejemplo.com
+🚀 **Desarrollador Backend** especializado en **Node.js** y **TypeScript**, enfocado en crear **APIs robustas, escalables y mantenibles**. Me apasiona escribir código limpio, aplicar buenas prácticas y diseñar soluciones pensadas para crecer.
 
 ---
-Si te interesa colaborar o tienes alguna idea, ¡escríbeme!
+
+## 🧠 Sobre mí
+- Backend developer con mentalidad de arquitectura
+- Interesado en sistemas escalables y bien estructurados
+- En constante aprendizaje de nuevas tecnologías y patrones
+- Me gusta optimizar procesos y mejorar la calidad del software
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+### Lenguajes
+- JavaScript (ES6+)
+- TypeScript
+
+### Backend
+- Node.js
+- Express
+- NestJS
+- Hono
+
+### Bases de datos
+- PostgreSQL
+- SQL (modelado relacional)
+
+### Otros conocimientos
+- APIs RESTful
+- Arquitectura en capas
+- DTOs, validaciones y middlewares
+- Principios SOLID
+- Buenas prácticas de seguridad
+- Testing (unitario / integración – en progreso)
+
+---
+
+## 🧰 En qué me especializo
+- Diseño y desarrollo de **APIs REST**
+- Arquitecturas escalables y mantenibles
+- Integración eficiente con bases de datos
+- Manejo de autenticación y autorización
+- Refactorización y mejora de código legacy
+
+---
+
+## 📂 Proyectos destacados
+🚧 **En construcción**  
+Actualmente trabajando en proyectos personales y académicos enfocados en backend moderno con Node.js y NestJS.  
+*(Próximamente repositorios públicos con documentación completa)*
+
+---
+
+## 📈 Objetivos actuales
+- Profundizar en arquitecturas backend avanzadas
+- Mejorar prácticas de testing y calidad de código
+- Aprender más sobre despliegue y DevOps
+- Construir proyectos open source
+
+---
+
+## 📫 Contacto
+- 💻 GitHub: [@JosueXDa](https://github.com/JosueXDa)
+- 📧 Email: tu-correo@ejemplo.com  
+- 🌐 LinkedIn: *(opcional, recomendado)*
+
+---
+
+⭐ Si te interesa colaborar, tienes alguna idea o simplemente quieres charlar de tecnología, **no dudes en escribirme**.
