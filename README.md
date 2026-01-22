@@ -24,6 +24,10 @@
 - NestJS
 - Hono
 
+### Frontend
+- React
+- Nextjs
+
 ### Bases de datos
 - PostgreSQL
 - SQL (modelado relacional)
@@ -64,8 +68,7 @@ Actualmente trabajando en proyectos personales y académicos enfocados en backen
 
 ## 📫 Contacto
 - 💻 GitHub: [@JosueXDa](https://github.com/JosueXDa)
-- 📧 Email: tu-correo@ejemplo.com  
-- 🌐 LinkedIn: *(opcional, recomendado)*
+- 📧 Email: josueloy12@gmail.com
 
 ---
 
